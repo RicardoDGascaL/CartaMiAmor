@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Sacramento");
+/* @import url("https://fonts.googleapis.com/css?family=Sacramento"); */
 
 #card {
   height: 500px;
@@ -29,7 +29,7 @@
   #card p {
     padding-left: 0 !important;
     padding-right: 0 !important; 
-    font-size: 1.3em !important;
+    font-size: 1em !important;
   }
 
   .valentines-day {
@@ -48,7 +48,7 @@
 }
 
 #card p {
-  font-size: 1.4em;
+  font-size: 1.3em;
   text-align: justify;
   padding-left: 30px; 
   padding-right: 30px; 
